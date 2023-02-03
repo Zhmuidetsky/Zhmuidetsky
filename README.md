@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ujeen
-#### I am data-analyst, but still Junior
+#### I am data-analyst
 I made this project to show you myself, my capabilities, so that you understand how I can be useful to you.
 
 Skills: **Python/SQL**
