@@ -4,7 +4,7 @@ I made this project to show you myself, my capabilities, so that you understand 
 
 Skills: **Python/SQL**
 
-- 🔭 I’m currently working on Decathlon 
+- 🔭 I’m currently looking for a new job
 - 👯 I’m looking to collaborate on any volunteer organizations to be useful to them and to gain experience 
 - 📫 How to reach me: zhmuidetsky@gmail.com 
 
