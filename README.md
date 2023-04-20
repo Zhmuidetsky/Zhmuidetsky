@@ -2,7 +2,7 @@
 #### Data analyst 
 with experience working on real and educational business projects in data analysis. I am good in Python and SQL, PowerBI data visualization tools, Tableau. More than 10 years of experience in analyzing and managing sales in large international retail companies: planning and executing the budget, analyzing the results of departments, hiring, training and motivating staff.
 
-**Skills:**Python (Pandas, Numpy, Plotly, API, Matplotlib, Seaborn, Scikit-learn,  SciPy, Request, Sketch),  SQL, PostgreSQL , PowerBI, Tableau, Datalens, Метрика, Директ
+**Skills:** Python (Pandas, Numpy, Plotly, API, Matplotlib, Seaborn, Scikit-learn,  SciPy, Request, Sketch),  SQL, PostgreSQL , PowerBI, Tableau, Datalens, Метрика, Директ
 
 - 🔭 I’m currently looking for a new job
 - 👯 I’m looking to collaborate on any volunteer organizations to be useful to them and to gain experience 
